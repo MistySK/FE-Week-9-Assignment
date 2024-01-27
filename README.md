@@ -49,7 +49,7 @@ class Card {
     //outer loop for length of suits; inner loop  - run 13x = 52 & pass in suits and values
 } */
 
-//Option from Evan's class:
+//Option?
 class Deck {
     constructor() {
         this.cards = [];
